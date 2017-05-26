@@ -6,6 +6,7 @@ To run the program:
   python3 vae.py
 
 Output results:
+
 <img src = "https://github.com/IouJenLiu/Variational-Autoencoder-Pytorch/blob/master/figure_1.png?raw=true" width="540">
 The left figure is the input image, the right figure is the generated image.
 
