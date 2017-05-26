@@ -7,7 +7,7 @@ To run the program:
 
 Output results:
 
-<img src = "https://github.com/IouJenLiu/Variational-Autoencoder-Pytorch/blob/master/figure1.png" width="270">
+<img src = "https://github.com/IouJenLiu/Variational-Autoencoder-Pytorch/figure_1.png" width="270">
 
 The left figure is the input image, the right figure is the generated image.
 
